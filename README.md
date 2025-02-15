@@ -31,6 +31,6 @@ Here’s a brief description of some of the key projects in this repository:
 
 42 Student    
 Drareg04    
-![Slimey thumbs up](https://github.com/Drareg04/42/blob/main/src/slimeTU.gif)
+![Slimey thumbs up](src/slimeThumbUp.gif)
 ## Disclaimer:
 This repository is for educational purposes and is part of the 42 School curriculum. Some projects may be subject to specific guidelines or restrictions set by 42.
