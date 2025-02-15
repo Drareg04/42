@@ -22,8 +22,8 @@ Here’s a brief description of some of the key projects in this repository:
 	Get Next Line: Implement a function that reads a line from a file descriptor.
 	Ft_printf: Recreate the printf function to understand variadic functions and string formatting.
  
-## How to Use This Repository    
-	Clone the repository:
+## How to Use This Repository 
+Clone the repository:
  
 	git clone https://github.com/Drareg04/42.git
 
