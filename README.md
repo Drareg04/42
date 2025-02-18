@@ -17,10 +17,10 @@ Welcome to the 42 repository! This project is part of the curriculum at [42 Scho
 
 ## Projects Overview    
 
-Here’s a brief description of some of the key projects in this repository:
-	Libft: Recreate a library of standard C functions to understand the basics of C programming.
-	Get Next Line: Implement a function that reads a line from a file descriptor.
-	Ft_printf: Recreate the printf function to understand variadic functions and string formatting.
+Here’s a brief description of some of the key projects in this repository:   
+
+	Libft:		Recreate a library of standard C functions to understand the basics of C programming.   
+	Ft_printf:	Recreate the printf function to understand variadic functions and string formatting.   
  
 ## How to Use This Repository 
 Clone the repository:
