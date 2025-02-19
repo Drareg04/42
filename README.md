@@ -27,7 +27,7 @@ Clone the repository:
  
 	git clone https://github.com/Drareg04/42.git
 
-## Happy coding! 
+## Have fun! 
 
 42 Student    
 Drareg04    
