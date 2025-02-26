@@ -6,7 +6,7 @@
 /*   By: glorza-p <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/15 14:45:00 by glorza-p          #+#    #+#             */
-/*   Updated: 2025/02/19 14:06:02 by glorza-p         ###   ########.fr       */
+/*   Updated: 2025/02/24 15:20:02 by glorza-p         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,7 +29,7 @@ void ft_printvar(char str*, int *i, va_list args)
 	else if (str[*i] == 'x')
 		ft_puthex(va_arg(args, unsigned int))
 	else if (str[*i] == 'X')
-		ft_puthex(va_arg(args, unsigned int))
+		ft_putHex(va_arg(args, unsigned int))
 	else if (str[*i] == '%')
 		ft_putchr('%');
 	else
