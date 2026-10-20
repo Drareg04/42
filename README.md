@@ -21,6 +21,6 @@ Clone the repository:
 
 42 Student    
 Drareg04    
-![Slimey thumbs up](src/slimeThumbUp.gif)
+![Slimey thumbs up](src/rotatingpigeon.gif)
 ## Disclaimer:
 This repository is for educational purposes and is part of the 42 School curriculum. Some projects may be subject to specific guidelines or restrictions set by 42.
